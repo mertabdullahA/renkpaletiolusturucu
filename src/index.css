@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.baslik {
+
+
+    font-size: 50px;
+    border: 4px solid burlywood;
+
+}
